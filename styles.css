@@ -53,3 +53,6 @@ header a{
 .lessons-wrapper .image-lesson img{
     width: 100%;
 }
+input[type=text]{
+    margin: 10px;
+}
